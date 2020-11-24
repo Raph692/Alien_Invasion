@@ -1,3 +1,3 @@
 # Alien_Invasion
-Store all scripts for the game alien invasion. 
-First project in "Python Crash Course". An Alien Invasion game written in Python using Pygame. 
+This repository contains all scripts and files to run the game alien invasion.
+
