@@ -21,7 +21,7 @@ def run_game():
     # Make the play button
     play_button = Button(ai_settings, screen, "Play")
 
-    # Create an instance to store game statistics and create a scoreboard.
+    # Create qan instance to store game statistics and create a scoreboard.
     stats = GameStats(ai_settings)
     sb = ScoreBoard(ai_settings, screen, stats)
 
