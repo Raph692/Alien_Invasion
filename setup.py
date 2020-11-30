@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 HERE = pathlib.Path(__file__).parent
 
 VERSION = '0.1.0'
-PACKAGE_NAME = 'alien_invasion_raph692'
+PACKAGE_NAME = 'AlienInv_raph692'
 AUTHOR = 'Raphael'
 AUTHOR_EMAIL = 'r_bidinger@web.com'
 URL = 'https://github.com/Raph692/Alien_Invasion'
